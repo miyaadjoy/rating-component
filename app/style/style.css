@@ -87,7 +87,7 @@ body {
 .rating__numbers > span:not(:last-child) {
   margin-right: 1.5rem;
 }
-@media (max-width: 767px) {
+@media (max-width: 420px) {
   .rating__numbers > span:not(:last-child) {
     margin-right: 0.75rem;
   }
